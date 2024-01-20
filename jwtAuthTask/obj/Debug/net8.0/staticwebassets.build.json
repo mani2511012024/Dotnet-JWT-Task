@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VtOgLWOX0wM7nQbedjoNSwwEDjq7boaFQzfzHwitTjc=",
+  "Source": "jwtAuthTask",
+  "BasePath": "_content/jwtAuthTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
